@@ -1,0 +1,18 @@
+item,buy_price,sell_price,effect
+Medical Herb,24,12,Restores 23 to 30 HP
+Torch,8,4,Illuminates a 1-tile radius around the hero in dungeons until leaving the dungeon
+Wings,70,35,Teleport back to Tantegel castle from any outdoor location
+Fairy Water,38,19,Prevents random encounters with weaker monsters on the world map
+Dragon's Scale,20,10,Increases defense by 2 as long as it remains in your inventory
+Fighter's Ring
+Magic Key
+Cursed Belt
+Death Necklace
+Fairy Flute
+Gwaelin's Love
+Erdrick's Token
+Stones of Sunlight
+Silver Harp
+Staff of Rain
+Rainbow Drop
+Ball of Light

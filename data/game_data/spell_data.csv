@@ -1,0 +1,19 @@
+spell,user,level,mp,effect
+Heal,Hero,3,4,Recovers 10 to 17 HP
+Hurt,Hero,4,2,Deals 5 to 12 damage
+Sleep,Hero,7,2,Puts enemy to sleep
+Radiant,Hero,9,3,Illuminates a 3-tile radius around the hero in dungeons (fades after many steps) 
+Stopspell,Hero,10,2,Blocks the effects of enemy spells
+Outside,Hero,12,6,Teleport to the entrance of a dungeon
+Return,Hero,13,8,Teleport to Tantegel Castle from outdoors
+Repel,Hero,15,2,Prevents random encounters with weaker monsters on the world map
+Healmore,17,10,Recovers 85 to 100 HP
+Hurtmore,19,5,Deals 58 to 65 damage
+Heal,Monsters,,,Recovers 20 to 27 HP
+Hurt,Monsters,,,Deals 3 to 10 damage
+Sleep,Monsters,,,Puts the hero to sleep
+Stopspell,Monsters,,,Blocks the effects of hero spells with a 50% chance
+Healmore,Monsters,,,Recovers 85 to 100 HP
+Hurtmore,Monsters,Deals 30 to 45 damage
+Fire Breath (weak),Monsters,,,Deals 16 to 23 damage
+Fire Breath (strong),Dragonlord,,,Deals 65 to 72 damage
